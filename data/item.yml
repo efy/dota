@@ -676,9 +676,30 @@
 231:
   - guardian_greaves
   - Guardian Greaves
+232:
+  - aether_lens
+  - Aether Lens
+233:
+  - recipe_aether_lens
+  - "Recipe: Aether Lens"
+233:
+  - recipe_dragon_lance
+  - "Recipe: Dragon Lance"
 235:
   - octarine_core
   - Octarine Core
+236:
+  - dragon_lance
+  - Dragon Lance
+237:
+  - faerie_fire
+  - Faerie Fire
+238:
+  - recipe_iron_talon
+  - "Recipe: Iron Talon"
+239:
+  - iron_talon
+  - Iron Talon
 241:
   - tango_single
   - Tango (Shared)
@@ -706,6 +727,9 @@
 254:
   - glimmer_cape
   - Glimmer Cape
+272:
+  - recipe_iron_talon
+  - "Recipe: Iron Talon"
 273:
   - iron_talon
   - Iron Talon
@@ -775,9 +799,15 @@
 1023:
   - faerie_fire
   - Faerie Fire
+1024:
+  - recipe_dragon_lance
+  - "Recipe: Dragon Lance"
 1025:
   - dragon_lance
   - Dragon Lance
+1027:
+  - recipe_aether_lens
+  - "Recipe: Aether Lens"
 1028:
   - aether_lens
   - Aether Lens
